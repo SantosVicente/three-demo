@@ -7,7 +7,9 @@ const Experience = () => {
         backgroundColor: "#f0f0f0",
       }}
     >
-      Experience
+      <p>Experience</p>
+
+      <p>HELLO!</p>
     </div>
   );
 };
