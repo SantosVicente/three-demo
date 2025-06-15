@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
 
 const Experience = () => {
   return (
-    <div>Experience</div>
-  )
-}
+    <div
+      style={{
+        backgroundColor: "#f0f0f0",
+      }}
+    >
+      Experience
+    </div>
+  );
+};
 
-export default Experience
+export default Experience;
